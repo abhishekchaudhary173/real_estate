@@ -18,34 +18,34 @@ const Header = () => {
       <div className="container">
         <div className="navbar">
           <span className="link_container">
-            <a className="links" onClick={handleClick}>
+            <p className="links" onClick={handleClick}>
               RentUp
-            </a>
+            </p>
           </span>
           <span className="link_container">
-            <a className="links" onClick={handleClick}>
+            <p className="links" onClick={handleClick}>
               Buy
-            </a>
+            </p>
           </span>
           <span className="link_container">
-            <a className="links" onClick={handleClick}>
+            <p className="links" onClick={handleClick}>
               Sell
-            </a>
+            </p>
           </span>
           <span className="link_container">
-            <a className="links" onClick={handleClick}>
+            <p className="links" onClick={handleClick}>
               Manage Property
-            </a>
+            </p>
           </span>
           <span className="link_container">
-            <a className="links" onClick={handleClick}>
+            <p className="links" onClick={handleClick}>
               Resources
-            </a>
+            </p>
           </span>
           <span className="link_container">
-            <a className="links" onClick={handleClick1}>
+            <p className="links" onClick={handleClick1}>
               Favourite
-            </a>
+            </p>
           </span>
         </div>
         <div className="btn_container">

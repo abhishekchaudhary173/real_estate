@@ -18,7 +18,8 @@
   color: black;
 }
 
-.btn_container {
+.navbar {
+  display: flex;
 }
 
 .btn1 {

@@ -103,6 +103,8 @@ const Main = () => {
               } else {
                 return item;
               }
+
+              return item;
             })
             .map((item, index) => {
               return (
@@ -133,6 +135,7 @@ const Main = () => {
                               width: 20,
                               height: 20,
                             }}
+                            alt="Favorite icon"
                           />
                         </div>
                       </div>
