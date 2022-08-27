@@ -1,0 +1,42 @@
+.container {
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: #f0eff7; */
+}
+
+.link_container {
+  padding: 5px;
+  margin: 5px;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+.btn_container {
+}
+
+.btn1 {
+  margin: 5px;
+  padding: 5px;
+  background-color: white;
+  color: #716aed;
+  border-color: #f0eff7;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.btn2 {
+  margin: 5px;
+  padding: 5px;
+  color: white;
+  background-color: #716aed;
+  border-color: #716aed;
+  border-radius: 5px;
+  border-style: none;
+}
